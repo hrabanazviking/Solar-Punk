@@ -1,3 +1,9 @@
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/Solar-Punk/refs/heads/main/file_000000003ab871f586f5c60ff839bc2b.png](https://raw.githubusercontent.com/hrabanazviking/Solar-Punk/refs/heads/main/file_000000003ab871f586f5c60ff839bc2b.png)
+
+---
+
 # 🌿⚡ SOLARPUNK AND THE AGE OF AQUARIUS
 ## A Comprehensive Vision for the World the 2020s Are Calling Into Being
 
@@ -12,6 +18,10 @@
 > runic lore, tarot symbolism, astrology, indigenous knowledge, New Age insight,
 > and the quietly radical power of open-source code — because the world we are building
 > cannot be understood through any single lens alone.
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/Solar-Punk/refs/heads/main/file_000000009e5c71f5a53d0036ec1be67c.png](https://raw.githubusercontent.com/hrabanazviking/Solar-Punk/refs/heads/main/file_000000009e5c71f5a53d0036ec1be67c.png)
 
 ---
 
@@ -39,6 +49,10 @@
 20. [A Vision of the Solarpunk World 2025–4025](#20-vision-of-world)
 21. [Practical Steps: How to Live Solarpunk Now](#21-practical-steps)
 22. [Conclusion: The World the Stars Are Announcing](#22-conclusion)
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/Solar-Punk/refs/heads/main/file_00000000b2ec722fa1efb31f12832b6a.png](https://raw.githubusercontent.com/hrabanazviking/Solar-Punk/refs/heads/main/file_00000000b2ec722fa1efb31f12832b6a.png)
 
 ---
 
@@ -175,6 +189,10 @@ the current era would be one of extraordinary and irreversible transformation.
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Solar-Punk/refs/heads/main/45B21DA6-E956-4B9E-A7F9-28754C86E09A.png](https://raw.githubusercontent.com/hrabanazviking/Solar-Punk/refs/heads/main/45B21DA6-E956-4B9E-A7F9-28754C86E09A.png)
+
+---
+
 ## 2. WHAT IS SOLARPUNK? AN INTRODUCTION TO THE LIVING PHILOSOPHY
 
 ### Beyond the Label: A Philosophy in Action
@@ -249,6 +267,10 @@ production, manufacturing, governance, and AI is not merely a technical preferen
 it is a fundamental philosophical and spiritual commitment to the principle that no
 single entity — no corporation, no government, no algorithm — should hold total power
 over the conditions of human life.
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/Solar-Punk/refs/heads/main/70AD8187-2CB6-4024-BDD2-3507C9EF2A37.png](https://raw.githubusercontent.com/hrabanazviking/Solar-Punk/refs/heads/main/70AD8187-2CB6-4024-BDD2-3507C9EF2A37.png)
 
 ---
 
@@ -411,6 +433,10 @@ and that sustainable civilization requires alignment rather than violation.
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Solar-Punk/refs/heads/main/BFD90688-7221-4568-A8F2-D6BC13B82020.png](https://raw.githubusercontent.com/hrabanazviking/Solar-Punk/refs/heads/main/BFD90688-7221-4568-A8F2-D6BC13B82020.png)
+
+---
+
 ## 4. SACRED ECOLOGY AND THE RETURN OF EARTH-BASED CULTURE
 
 ### Animism as Accurate Science
@@ -518,6 +544,10 @@ ecological intelligence that was forcibly suppressed. The modern practitioner of
 magic who grows herbs, reads the seasonal cycles, honors the spirits of place, and
 maintains community relationships through ceremony and shared celebration is practicing
 a form of ecological literacy that the Solarpunk world actively needs.
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/Solar-Punk/refs/heads/main/file_00000000b14871f880c2ed84401e4a3d.png](https://raw.githubusercontent.com/hrabanazviking/Solar-Punk/refs/heads/main/file_00000000b14871f880c2ed84401e4a3d.png)
 
 ---
 
@@ -635,6 +665,10 @@ libraries, makerspaces, and cooperative farms around the world.
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Solar-Punk/refs/heads/main/C64A969A-07E6-4879-9E5F-8578CE7DFDB0.png](https://raw.githubusercontent.com/hrabanazviking/Solar-Punk/refs/heads/main/C64A969A-07E6-4879-9E5F-8578CE7DFDB0.png)
+
+---
+
 ## 6. VIBE CODING: THE FOLK MAGIC OF SOFTWARE
 
 ### Programming as Participatory Culture
@@ -696,6 +730,10 @@ This is *frith* — the Norse concept of community peace and mutual flourishing 
 expressed in code. It is *Ubuntu* — "I am because we are" — written in Python.
 It is the Celtic Brehon principle that knowledge is a trust held for the community —
 committed in Git and licensed under the GPL.
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/Solar-Punk/refs/heads/main/file_00000000347071f584f20c87ce5386d6.png](https://raw.githubusercontent.com/hrabanazviking/Solar-Punk/refs/heads/main/file_00000000347071f584f20c87ce5386d6.png)
 
 ---
 
@@ -775,6 +813,10 @@ control the fundamental tools of one's daily life.
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Solar-Punk/refs/heads/main/file_000000004b7c71f5abe3a04111271149.png](https://raw.githubusercontent.com/hrabanazviking/Solar-Punk/refs/heads/main/file_000000004b7c71f5abe3a04111271149.png)
+
+---
+
 ## 8. LINUX, OPEN SOURCE, AND THE COMMONS OF KNOWLEDGE
 
 ### The Epistemological Revolution
@@ -822,6 +864,10 @@ culture, and serve every human community on equal terms. Every cultural dataset,
 specialized fine-tuned model, every open-source training pipeline shared with the
 community is a rune carved into the bark of the digital Yggdrasil — a contribution
 to the great web that connects all.
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/Solar-Punk/refs/heads/main/file_000000007a4471fdb61e4e624ce4690b.png](https://raw.githubusercontent.com/hrabanazviking/Solar-Punk/refs/heads/main/file_000000007a4471fdb61e4e624ce4690b.png)
 
 ---
 
@@ -899,6 +945,10 @@ if it is navigated wisely, opens the possibility of a genuinely more equitable g
 economic order — one in which every nation's ability to participate in the global economy
 is not dependent on its access to fossil fuels or its relationship with the dollar-
 issuing power.
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/Solar-Punk/refs/heads/main/94DA7681-E450-4AC6-8F7F-54219F856039.png](https://raw.githubusercontent.com/hrabanazviking/Solar-Punk/refs/heads/main/94DA7681-E450-4AC6-8F7F-54219F856039.png)
 
 ---
 
@@ -1754,6 +1804,10 @@ by a sun that has always been there, powered by intelligence that is only now be
 to remember what it always knew.
 
 *Build the world. Share abundance. Remember the sacred. And be free.*
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/Solar-Punk/refs/heads/main/file_00000000950871fda81bb9c9d4a04d4d.png](https://raw.githubusercontent.com/hrabanazviking/Solar-Punk/refs/heads/main/file_00000000950871fda81bb9c9d4a04d4d.png)
 
 ---
 
