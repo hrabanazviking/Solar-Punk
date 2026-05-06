@@ -1870,7 +1870,7 @@ to remember what it always knew.
 
 ---
 
-**© RuneForgeAI Research Documents — Open Knowledge, Freely Shared**
+**© Volmarr Wyrd and RuneForgeAI Research Documents — Open Knowledge, Freely Shared**
 *This document is released under Creative Commons CC BY 4.0 — share freely with attribution*
 
 ---
